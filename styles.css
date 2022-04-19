@@ -1,0 +1,30 @@
+body{
+  background-color: #FFF8F3;
+}
+h1{
+  color: #1C6DD0;
+}
+h2{
+  color: #1C6DD0;
+}
+h3{
+  color: #1C6DD0;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#A3E4DB;
+  height: 0;
+  width: 50%;
+  border-width: 5px
+}
+a {
+color: #D885A3;
+font-size: 30px;
+}
+td {
+  font-size: 19px;
+}
+li{
+  font-size: 19px;
+}
